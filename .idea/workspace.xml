@@ -17,6 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IAwcBNwRqeRUNl9Z9G0tBQ3chd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,7 +33,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._1Kt (1)">
+    <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifStatement._1Kt" />
+      <module name="KotlinPractiice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="val&amp;var._1Kt" />
       <module name="KotlinPractiice" />
@@ -40,6 +50,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1Kt (1)" />
         <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
