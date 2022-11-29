@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2de4b5b-257b-4d83-b514-73d9fbf0bc55" name="Changes" comment="" />
+    <list default="true" id="b2de4b5b-257b-4d83-b514-73d9fbf0bc55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/function/7.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,14 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._6Kt">
-    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function._2Kt" />
-      <module name="KotlinPractiice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._7Kt">
     <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="function._3Kt" />
       <module name="KotlinPractiice" />
@@ -71,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function._7Kt" />
+      <module name="KotlinPractiice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
-        <item itemvalue="Kotlin._2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669683007618</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[feat::] Add 6 function">
+      <created>1669683239432</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669683239432</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +158,7 @@
     <MESSAGE value="[feat::] Add 3 function" />
     <MESSAGE value="[feat::] Add 4 function" />
     <MESSAGE value="[feat::] Add 5 function" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 function" />
+    <MESSAGE value="[feat::] Add 6 function" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 function" />
   </component>
 </project>
