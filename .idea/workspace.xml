@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2de4b5b-257b-4d83-b514-73d9fbf0bc55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array/2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array/3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/array/3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/array/3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2Kt">
+  <component name="RunManager" selected="Kotlin._3Kt">
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array._1Kt" />
       <module name="KotlinPractiice" />
@@ -54,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function._6Kt" />
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array._3Kt" />
       <module name="KotlinPractiice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._8Kt" />
         <item itemvalue="Kotlin._7Kt" />
-        <item itemvalue="Kotlin._6Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669692106785</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[feat::] Add 2 array">
+      <created>1669692664970</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669692664970</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +191,7 @@
     <MESSAGE value="[feat::] Add 7 function" />
     <MESSAGE value="[feat::] Add 8 function" />
     <MESSAGE value="[feat::] Add 1 array" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 array" />
+    <MESSAGE value="[feat::] Add 2 array" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2 array" />
   </component>
 </project>
