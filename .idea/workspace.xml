@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2de4b5b-257b-4d83-b514-73d9fbf0bc55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/function/1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/function/2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/function/3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IAwcBNwRqeRUNl9Z9G0tBQ3chd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2Kt">
+  <component name="RunManager" selected="Kotlin._3Kt">
     <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ifStatement._1Kt" />
       <module name="KotlinPractiice" />
@@ -66,8 +66,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function._3Kt" />
+      <module name="KotlinPractiice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt (2)" />
         <item itemvalue="Kotlin._1Kt (1)" />
@@ -105,12 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1669638476396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[feat::] Add 1 function">
+      <created>1669682068284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669682068284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 1 val&amp;var" />
     <MESSAGE value="[feat::] Add 1 ifStatement" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 ifStatement" />
+    <MESSAGE value="[feat::] Add 1 function" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 function" />
   </component>
 </project>
